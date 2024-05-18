@@ -1,1 +1,1 @@
-Contenido del fichero.
+Contenido del fichero editado desde el repositorio remoto.
