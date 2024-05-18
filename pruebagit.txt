@@ -1,2 +1,3 @@
 Nuestro fichero es el bueno, no nos gustan los
-conflictos
+conflictos.
+Estamos creando un conflicto.
