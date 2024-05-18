@@ -1,1 +1,2 @@
-Seguimos modificando nuestro repositorio, ahora incluyendo ramas nuevas
+Nuestro fichero es el bueno, no nos gustan los
+conflictos
